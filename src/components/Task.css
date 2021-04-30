@@ -11,6 +11,29 @@
     transition: all 0.3s ease 0s;
 }
 
+.buttons-container{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .task-container:hover{
     transform: translateY(-7px);
+}
+
+.remove-task-button{
+    background-color: #444;
+    border: none;
+    font-size: 20px;
+    color: rgb(0, 110, 255) ;
+    cursor: pointer;
+}
+
+.see-task-details-button{
+    background-color: #444;
+    border: none;
+    font-size: 20px;
+    color: rgb(0, 110, 255) ;
+    cursor: pointer;
+    margin: 0 5px;
 }

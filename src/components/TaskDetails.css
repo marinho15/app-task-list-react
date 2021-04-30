@@ -1,0 +1,20 @@
+.task-details-container{
+    background-color: #444;
+    margin: 15px;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    color: #eee;
+    border-radius: 10px;
+    transition: all 0.3s ease 0s;
+}
+
+.task-details-container:hover{
+    transform: translateY(-7px);
+}
+
+.title-details{
+    text-transform:capitalize ;
+    margin-bottom: 5px;
+    color: rgb(0, 110, 255);
+}

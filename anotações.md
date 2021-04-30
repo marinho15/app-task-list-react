@@ -35,3 +35,6 @@ codigo -> useState
 
 
 
+##### Router
+
+O router possibilita criar outras paginas 
