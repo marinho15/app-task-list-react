@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./components/task-list.png" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/components/task-list.png" />
 </h1>
 
 
@@ -49,7 +49,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <a href="#">
- <img src="./components/Me.jpeg" width="100px;" alt="" />
+ <img src="./src/components/Me.jpeg" width="100px;" alt="" />
  <br />
  <sub><b>Matheus Marinho</b></sub></a> <a href="#" title="Matheus Marinho">🚀</a>
 
