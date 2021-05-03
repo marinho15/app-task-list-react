@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <h1 aling="center">
-<img  src="https://img.shields.io/static/v1?label=&message=react&color=blue&style=for-the-badge&logo=ghost"/>  <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=blue&style=for-the-badge&logo=ghost"/> 
+<img  src="https://img.shields.io/static/v1?label=&message=react&color=blue&style=for-the-badge&logo=ghost"/> <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=critical&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=9cf&style=for-the-badge&logo=ghost"/>  
 
 </h1>
 
