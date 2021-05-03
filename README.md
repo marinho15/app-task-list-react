@@ -35,13 +35,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <h1 aling="center">
-<img  src="https://img.shields.io/static/v1?label=&message=react&color=blue&style=for-the-badge&logo=ghost"/> 
+<img  src="https://img.shields.io/static/v1?label=&message=react&color=blue&style=for-the-badge&logo=ghost"/>  <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=blue&style=for-the-badge&logo=ghost"/> 
+
 </h1>
 
 
 <h2 align="left" id="licen-a">  Licença MIT </h2>
 <a href="./LICENCE"> 
-<img src="https://img.shields.io/static/v1?label=Licenca&message=MIT&color=gray&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Licenca&message=MIT&color=gray&style=for-the-badge&logo=ghost"/> 
 </a>
 
 
